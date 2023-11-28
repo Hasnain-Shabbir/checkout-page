@@ -13,3 +13,4 @@ export { default as ShippingMethod } from '@/components/ShippingMethod';
 export { default as Tooltip } from '@/components/Tooltip';
 export { default as PaymentForm } from '@/components/PaymentForm';
 export { default as PaymentIcon } from '@/components/PaymentIcon';
+export { default as RememberMe } from '@/components/RememberMe';
