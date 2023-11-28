@@ -10,3 +10,4 @@ export { default as DeliveryMethodSelector } from '@/components/DeliveryMethodSe
 export { default as AddressForm } from '@/components/AddressForm';
 export { default as TextMeOffers } from '@/components/TextMeOffers';
 export { default as ShippingMethod } from '@/components/ShippingMethod';
+export { default as Tooltip } from '@/components/Tooltip';
