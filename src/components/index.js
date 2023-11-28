@@ -17,3 +17,4 @@ export { default as RememberMe } from '@/components/RememberMe';
 export { default as Footer } from '@/components/Footer';
 export { default as PickupLocationSelector } from '@/components/PickupLocationSelector';
 export { default as LocationRadio } from '@/components/LocationRadio';
+export { default as CartItem } from '@/components/CartItem';
