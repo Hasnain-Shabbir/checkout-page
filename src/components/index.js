@@ -15,3 +15,5 @@ export { default as PaymentForm } from '@/components/PaymentForm';
 export { default as PaymentIcon } from '@/components/PaymentIcon';
 export { default as RememberMe } from '@/components/RememberMe';
 export { default as Footer } from '@/components/Footer';
+export { default as PickupLocationSelector } from '@/components/PickupLocationSelector';
+export { default as LocationRadio } from '@/components/LocationRadio';
