@@ -20,3 +20,5 @@ export { default as LocationRadio } from '@/components/LocationRadio';
 export { default as CartItem } from '@/components/CartItem';
 export { default as OrderSummaryAccordion } from '@/components/OrderSummaryAccordion';
 export { default as OrderSummary } from '@/components/OrderSummary';
+export { default as Input } from '@/components/Input';
+export { default as IconInput } from '@/components/IconInput';
