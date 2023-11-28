@@ -9,3 +9,4 @@ export { default as ContactForm } from '@/components/ContactForm';
 export { default as DeliveryMethodSelector } from '@/components/DeliveryMethodSelector';
 export { default as AddressForm } from '@/components/AddressForm';
 export { default as TextMeOffers } from '@/components/TextMeOffers';
+export { default as ShippingMethod } from '@/components/ShippingMethod';
