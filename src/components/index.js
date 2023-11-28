@@ -7,3 +7,4 @@ export { default as Checkbox } from '@/components/Checkbox';
 export { default as Separator } from '@/components/Separator';
 export { default as ContactForm } from '@/components/ContactForm';
 export { default as DeliveryMethodSelector } from '@/components/DeliveryMethodSelector';
+export { default as AddressForm } from '@/components/AddressForm';
